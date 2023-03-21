@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3628095997288762526
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 394239347749799309, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 17384ec3dc15eaf4984ee688ece9980e, type: 3}
+    - target: {fileID: 394239347749799309, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: CanMove
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: ColorType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: GameBlockType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: BlockSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 17384ec3dc15eaf4984ee688ece9980e, type: 3}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: BlockSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: f80cb63a88968d044a6410e75957d601, type: 3}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: BlockSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 6c9b78ee995fe604ab550ec00d885ede, type: 3}
+    - target: {fileID: 394239347960336261, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: BlockSprites.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 8ce3442a385277b4b8b351f5920b3526, type: 3}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336262, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 394239347960336263, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
+      propertyPath: m_Name
+      value: ColorBlockPink Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 68725132f2c326c46a3aa9d57ba63859, type: 3}
